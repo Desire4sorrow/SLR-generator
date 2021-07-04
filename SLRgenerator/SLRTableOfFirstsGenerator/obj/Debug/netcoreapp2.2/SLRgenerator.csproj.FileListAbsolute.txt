@@ -1,0 +1,12 @@
+C:\Users\Руслан\Documents\SLRTableOfFirstsGenerator\SLRTableOfFirstsGenerator\bin\Debug\netcoreapp2.2\SLRgenerator.deps.json
+C:\Users\Руслан\Documents\SLRTableOfFirstsGenerator\SLRTableOfFirstsGenerator\bin\Debug\netcoreapp2.2\SLRgenerator.runtimeconfig.json
+C:\Users\Руслан\Documents\SLRTableOfFirstsGenerator\SLRTableOfFirstsGenerator\bin\Debug\netcoreapp2.2\SLRgenerator.runtimeconfig.dev.json
+C:\Users\Руслан\Documents\SLRTableOfFirstsGenerator\SLRTableOfFirstsGenerator\bin\Debug\netcoreapp2.2\SLRgenerator.dll
+C:\Users\Руслан\Documents\SLRTableOfFirstsGenerator\SLRTableOfFirstsGenerator\bin\Debug\netcoreapp2.2\SLRgenerator.pdb
+C:\Users\Руслан\Documents\SLRTableOfFirstsGenerator\SLRTableOfFirstsGenerator\obj\Debug\netcoreapp2.2\SLRgenerator.csproj.AssemblyReference.cache
+C:\Users\Руслан\Documents\SLRTableOfFirstsGenerator\SLRTableOfFirstsGenerator\obj\Debug\netcoreapp2.2\SLRgenerator.AssemblyInfoInputs.cache
+C:\Users\Руслан\Documents\SLRTableOfFirstsGenerator\SLRTableOfFirstsGenerator\obj\Debug\netcoreapp2.2\SLRgenerator.AssemblyInfo.cs
+C:\Users\Руслан\Documents\SLRTableOfFirstsGenerator\SLRTableOfFirstsGenerator\obj\Debug\netcoreapp2.2\SLRgenerator.csproj.CoreCompileInputs.cache
+C:\Users\Руслан\Documents\SLRTableOfFirstsGenerator\SLRTableOfFirstsGenerator\obj\Debug\netcoreapp2.2\SLRgenerator.dll
+C:\Users\Руслан\Documents\SLRTableOfFirstsGenerator\SLRTableOfFirstsGenerator\obj\Debug\netcoreapp2.2\SLRgenerator.pdb
+C:\Users\Руслан\Documents\SLRTableOfFirstsGenerator\SLRTableOfFirstsGenerator\obj\Debug\netcoreapp2.2\SLRgenerator.genruntimeconfig.cache
